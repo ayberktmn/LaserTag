@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laser_tag", "silerim_calis\laser_tag.csproj", "{30FC7EC5-6D64-4312-A50D-5694F883561E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FC7EC5-6D64-4312-A50D-5694F883561E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FC7EC5-6D64-4312-A50D-5694F883561E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FC7EC5-6D64-4312-A50D-5694F883561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FC7EC5-6D64-4312-A50D-5694F883561E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0773ADB6-EA5C-4B04-B43F-3E04AE2C8611}
+	EndGlobalSection
+EndGlobal

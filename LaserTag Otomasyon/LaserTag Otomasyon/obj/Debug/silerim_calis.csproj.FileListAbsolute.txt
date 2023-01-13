@@ -1,0 +1,15 @@
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\bin\Debug\silerim_calis.exe.config
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\bin\Debug\silerim_calis.exe
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\bin\Debug\silerim_calis.pdb
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.csproj.AssemblyReference.cache
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.csproj.SuggestedBindingRedirects.cache
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.Properties.Resources.resources
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.csproj.GenerateResource.cache
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.csproj.CoreCompileInputs.cache
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.exe
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.pdb
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.Form1.resources
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.dogruanamenu.resources
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.grupmac.resources
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.olumaci2.resources
+C:\Users\KARA\source\repos\silerim_calis\silerim_calis\obj\Debug\silerim_calis.Form2.resources
